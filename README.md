@@ -1,4 +1,4 @@
-# asyncPromises Projects
+# Practicing promises and async/await Projects
 ## Table of Contents
 - [Project Name](#project-name)
 - [About](#about)
@@ -12,7 +12,7 @@
 - [Credits & Acknowledgements](#credits--acknowledgements)
 - [Contact](#contact)
 ## Project Name
-asyncPromises Projects
+Practicing promises and async/await
 ## About
 A collection of JavaScript projects exploring asynchronous programming concepts using Promises and async/await. This repository demonstrates handling asynchronous operations, such as API simulations, delays, and error handling, to build foundational skills in modern JavaScript for real-world applications like web development and data fetching.
 ## Prerequisites
